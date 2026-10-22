@@ -36,3 +36,4 @@ Notes
 
 The meter stays above your game window. Your colour and background image choices reset when you close the app.<img width="60" height="1" alt="Screenshot 2026-08-18 160807" src="https://github.com/user-attachments/assets/9338bf5f-4651-4e7d-9bc7-2e6cef51afd4" />
 
+<img width="1278" height="959" alt="Screenshot 2026-10-22 213909" src="https://github.com/user-attachments/assets/eba55623-71f8-4884-94d4-6e0a295e90c9" />
