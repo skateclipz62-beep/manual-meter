@@ -33,4 +33,5 @@ To turn it off again, press Ctrl + Shift + M. You can also right-click the Manua
 
 Notes
 
-The meter stays above your game window. Your colour and background image choices reset when you close the app.
+The meter stays above your game window. Your colour and background image choices reset when you close the app.<img width="60" height="1" alt="Screenshot 2026-08-18 160807" src="https://github.com/user-attachments/assets/9338bf5f-4651-4e7d-9bc7-2e6cef51afd4" />
+
