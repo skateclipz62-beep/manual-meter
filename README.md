@@ -1,3 +1,4 @@
+<img width="417" height="303" alt="Screenshot 2026-10-22 212948" src="https://github.com/user-attachments/assets/88165188-6faa-41a0-aa94-3a5030417b38" />
 # manual-meter
 Manual Meter
 
